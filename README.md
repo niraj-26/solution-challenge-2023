@@ -49,25 +49,38 @@ Empowering women and girls and achieving gender equality are crucial to creating
 We aim to reach each and every girl/woman of rural India to educate and empower them through emerging technologies. We have covered 6 major sectors for the overall development of women. These are Education, Health, Safety, Empowerment, Economic Freedom, and opportunities for Women in Tech. We have researched the various sectors and provided links to the external sites which look into this matter, and helpline numbers of Concerned authorities (NGOs, Crime cells, and Women's cells). Moreover, we will be working on individual web pages of this objective hyperlinked with the main site. 
 
 # Tools & Technologies
+<ul>
+ <li>HTML</li>
+ <li>CSS</li>
+<li>JavaScript</li>
+<li>PHP</li>
+<li>MySQL</li>
+<li>AI</li>
+<li>Google Translator</li>
+ 
+</ul>
 
 # Developed Features:
 
-<h3>AI assistant bot using Microsoft Azure:</h3>
+<h3>AI assistant bot: </h3>
 
-A chatbot is a flexible and convenient approach to acquire information. They give end-users a fully individualized experience because most of them prefer texting to any other kind of communication. Natural language processing (NLP) is used by AI chatbots to assist consumers in interacting with web services or apps via text, visuals, or audio. Furthermore, AI chatbots employ predictive intelligence and analytics to learn a user's preferences and then utilize that information to make suggestions and anticipate requirements.
+A chatbot is a flexible and convenient approach to acquire information. They give end-users a fully individualized experience because most of them prefer texting to any other kind of communication. Natural language processing (NLP) is used by AI chatbots to assist consumers in interacting with web services or apps via text, visuals, or audio. 
+We will work on an AI assistant bot that will be incorporated into our website and help women find information about helplines, health-related remedial treatments, and women's safety, education, economic freedom policies and protection rights all in one place.
 
-We have worked on an AI assistant bot using Microsoft Azure that incorporats into our website and help women find information about helplines, health-related remedial treatments, and women's safety, education, economic freedom policies and protection rights all in one place.
 
 
-<h3>Website translation into local languages</h3>
+
+<h3>Website translation into local languages: </h3>
 
 According to a report in 2018, There are 121 languages which are spoken by 10,000 or more people in India, which has a population of 121 crore. We live in a multilingual world, so we will be offering our website in multiple languages so as to make it more user-friendly and connect with new audiences. It will help us expand our reach and provide access and information to those women who can read/write in their local language only.
 
+
 <h3>Login and signup features:</h3>
 
-Login and Signup features on Sashakt Stree website will be a security mechanism that will be used to restrict unauthorized access to member-only areas and tools on the site. We have created a simple registration and login system using PHP and MySQL and integrating it in the website.
+Login and Signup features on <b> RiseUp Women </b> website will be a security mechanism that will be used to restrict unauthorized access to member-only areas and tools on the site. We will be creating a simple registration and login system using PHP and MySQL and integrating it in the website.
+
+
 
 <h3>Contact Us:</h3>
 
-We have already created the frontend for the Contact Us form with fields like Name, Email, Number, Subject and Message. We also worked on the backend part of it so that all queries can be sent to us, the administrators and thus we can help the women facing any issues regarding the website.
-A server side script is used to collect the form data and do the processing like send emails, save to the database etc. This form has come up with a PHP script to handle the form submissions. PHP is a widely supported server side scripting platform. When the form is submitted, the javascript form submission event handler above collects the form data and sends it to the server side script.
+We will create the frontend for the Contact Us form with fields like Name, Email etc. We will be working on the backend part of it so that all queries can be sent to us, the administrators and thus we can help the women facing any issues regarding the website. A server side script will be used to collect the form data and do the processing like send emails, save to the database etc. 
