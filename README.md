@@ -1,4 +1,4 @@
-# solution-challenge-2023
+# solution-challenge-2023 ( RiseUp Women )
 # Problem Statement
 
 Over the last several years, our India has experienced numerous horrifying incidents involving women of all ages, both on social media and in real life. Every week, a large number of complaints are made, with the majority of them remaining unaddressed. Furthermore, more than half of the women are afraid to speak up. Apart from all of this distress, women are afraid to discuss their own health. In most rural regions of India, discussing health concerns has always been and continues to be taboo. A substantial number of women are unaware of the resources available to them in areas of education and economic freedom.
@@ -12,6 +12,13 @@ In light of this, we created <b> a website to address all of the challenges tha
 We aim to reach each and every girls/womans of rural India to educate and empower them through emerging technologies. We have covered 6 major sectors for the overall development of women. These are <b> Education, Health, Safety, Empowerment, Economic Freedom, and opportunities for Women in Tech </b>. We have researched the various sectors and provided links to the external sites which look into this matter, and helpline numbers of Concerned authorities (NGOs, Crime cells, and Women's cells). Moreover, we will be working on individual web pages of this objective hyperlinked with the main site.
 
 
+# Sustainable Development Goals
+
+<ul>
+ <li>Good Health & Wellbeing</li>
+ <li>Quality Education</li>
+ <li>Gender Equality and Women’s Empowerment</li>
+</ul>
 
 
 
