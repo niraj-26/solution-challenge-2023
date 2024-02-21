@@ -79,7 +79,19 @@ We will work on an AI assistant bot that will be incorporated into our website a
 
 <h3>Website translation into local languages: </h3>
 
-According to a report in 2018, There are 121 languages which are spoken by 10,000 or more people in India, which has a population of 121 crore. We live in a multilingual world, so we will be offering our website in multiple languages so as to make it more user-friendly and connect with new audiences. It will help us expand our reach and provide access and information to those women who can read/write in their local language only.
+We live in a multilingual world, so we will be offering our website in multiple languages so as to make it more user-friendly and connect with new audiences. It will help us expand our reach and provide access and information to those women who can read/write in their local language only.
+
+<h3>Mentorship Connectivity: </h3>
+
+Our website simplifies maintenance connectivity, enabling users to engage in real-time communication for immediate support. Connect seamlessly with maintenance experts, correct issues efficiently, and enhance your experience with swift assistance. Elevate your interaction, streamline problem-solving, and ensure a smoother experience with our platform.
+
+<h3>Mentorship Connectivity: </h3>
+
+Our website simplifies maintenance connectivity, enabling users to engage in real-time communication for immediate support. Connect seamlessly with maintenance experts, correct issues efficiently, and enhance your experience with swift assistance. Elevate your interaction, streamline problem-solving, and ensure a smoother experience with our platform.
+
+<h3>Healthcare connectivity: </h3>
+
+Experience seamless Healthcare Connectivity on our platform, allowing users to schedule virtual consultations with qualified doctors from the comfort of their homes. Our secure communication channels prioritize privacy, ensuring confidential interactions between patients and healthcare professionals. Take control of your well-being by easily accessing virtual appointments, promoting convenience and timely healthcare support.
 
 
 <h3>Login and signup features:</h3>
