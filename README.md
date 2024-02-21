@@ -1,13 +1,20 @@
 # solution-challenge-2023
-# Introduction
-
-Sashakt Stree means <b>“Strong Woman”.</b> Our mission is <b>to educate, inspire, and empower</b> rural women. Our goal is to reach out to women in ever-more creative ways through technology and to make them “Sashakt” in their own ways! 
+# Problem Statement
 
 Over the last several years, our India has experienced numerous horrifying incidents involving women of all ages, both on social media and in real life. Every week, a large number of complaints are made, with the majority of them remaining unaddressed. Furthermore, more than half of the women are afraid to speak up. Apart from all of this distress, women are afraid to discuss their own health. In most rural regions of India, discussing health concerns has always been and continues to be taboo. A substantial number of women are unaware of the resources available to them in areas of education and economic freedom.
 
-In light of this, we created <b>a website to address all of the challenges that women face</b> and to give a platform for all women to learn about their rights and opportunities available for them.
+# Solution
 
-We're also working on <b>an AI assistant bot using Microsoft Azure</b> that will be incorporated into our website and help women find information about helplines, health-related remedial treatments, and women's safety, education, economic freedom policies and protection rights all in one place.
+<b> “RiseUp Women” </b>. Our mission is <b> to educate, inspire, and empower </b> rural women. Our goal is to reach out to women in ever-more creative ways through technology and to make them strong in their own ways!
+
+In light of this, we created <b> a website to address all of the challenges that women face </b> and to give a platform for all women to learn about their rights and opportunities available for them.
+
+We aim to reach each and every girls/womans of rural India to educate and empower them through emerging technologies. We have covered 6 major sectors for the overall development of women. These are <b> Education, Health, Safety, Empowerment, Economic Freedom, and opportunities for Women in Tech </b>. We have researched the various sectors and provided links to the external sites which look into this matter, and helpline numbers of Concerned authorities (NGOs, Crime cells, and Women's cells). Moreover, we will be working on individual web pages of this objective hyperlinked with the main site.
+
+
+
+
+
 
 # Vision
 
@@ -21,9 +28,9 @@ Our mission is to educate girls and women so that they may improve their own lif
  
 <h3>To Inform</h3>
 
-<h4>Sashakt Stree means "Strong Woman”.</h4>
+<h4>RiseUp Women "Strong Woman”.</h4>
  
-Sashakt Stree promotes knowledge about development, care and protection of rural women and girls through cross-cutting policies and programmes, spreading awareness about their rights and facilitating access to learning, nutrition, institutional and legislative support for enabling them to grow and develop to their full potential.
+RiseUp Women promotes knowledge about development, care and protection of rural women and girls through cross-cutting policies and programmes, spreading awareness about their rights and facilitating access to learning, nutrition, institutional and legislative support for enabling them to grow and develop to their full potential.
 
 <h3>To Inspire</h3>
 
@@ -33,7 +40,7 @@ There is something these inspirational women all share in common: they are all w
 
 <h3>To Empower</h3>
 
-<h4>To make them Sashakt in their own ways!</h4>
+<h4>To make them Strong in their own ways!</h4>
  
 Empowering women and girls and achieving gender equality are crucial to creating inclusive, open and prosperous societies. Sashakt Stree promotes access and opportunity for women and girls and builds the skills and confidence of women and girls to achieve their potential and have more influence over decisions that affect their lives.
 
@@ -42,11 +49,6 @@ Empowering women and girls and achieving gender equality are crucial to creating
 We aim to reach each and every girl/woman of rural India to educate and empower them through emerging technologies. We have covered 6 major sectors for the overall development of women. These are Education, Health, Safety, Empowerment, Economic Freedom, and opportunities for Women in Tech. We have researched the various sectors and provided links to the external sites which look into this matter, and helpline numbers of Concerned authorities (NGOs, Crime cells, and Women's cells). Moreover, we will be working on individual web pages of this objective hyperlinked with the main site. 
 
 # Tools & Technologies
-For now, we have developed a static website using HTML, CSS, and Javascript. We will be working on the backend which will store the data of users navigating to the site by asking for registration through firebase.
-We will make it a dynamic website. We will contact the users through email.
-The Project is advanced by introducing new features, an AI-powered chat bot which will clear the initial doubts of the users. The backend of the site is developed by Php and Collection of the data through Mysql Database to take the particular queries of the user and assist them with the message or email. We will enhance this project further and make it dynamic for real life applications.
-
-
 
 # Developed Features:
 
