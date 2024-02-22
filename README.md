@@ -1,7 +1,7 @@
 # solution-challenge-2023 ( RiseUp Women )
 # Problem Statement
 
-Over the last several years, our India has experienced numerous horrifying incidents involving women of all ages, both on social media and in real life. Every week, a large number of complaints are made, with the majority of them remaining unaddressed. Furthermore, more than half of the women are afraid to speak up. Apart from all of this distress, women are afraid to discuss their own health. In most rural regions of India, discussing health concerns has always been and continues to be taboo. A substantial number of women are unaware of the resources available to them in areas of education and economic freedom.
+Over the last several years, our World has experienced numerous horrifying incidents involving women of all ages, both on social media and in real life. Every week, a large number of complaints are made, with the majority of them remaining unaddressed. Furthermore, more than half of the women are afraid to speak up. Apart from all of this distress, women are afraid to discuss their own health. In most rural regions of World, discussing health concerns has always been and continues to be taboo. A substantial number of women are unaware of the resources available to them in areas of education and economic freedom.
 
 # Solution
 
