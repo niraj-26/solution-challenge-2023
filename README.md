@@ -11,6 +11,9 @@ In light of this, we created <b> a website to address all of the challenges tha
 
 We aim to reach each and every girls/womans of rural India to educate and empower them through emerging technologies. We have covered 6 major sectors for the overall development of women. These are <b> Education, Health, Safety, Empowerment, Economic Freedom, and opportunities for Women in Tech </b>. We have researched the various sectors and provided links to the external sites which look into this matter, and helpline numbers of Concerned authorities (NGOs, Crime cells, and Women's cells). Moreover, we will be working on individual web pages of this objective hyperlinked with the main site.
 
+# Deployed Link : http://16.171.25.142/RiseUp%20Women/
+# YouTube Link : 
+
 
 # Sustainable Development Goals
 
@@ -103,3 +106,13 @@ Login and Signup features on <b> RiseUp Women </b> website will be a security me
 <h3>Contact Us:</h3>
 
 We will create the frontend for the Contact Us form with fields like Name, Email etc. We will be working on the backend part of it so that all queries can be sent to us, the administrators and thus we can help the women facing any issues regarding the website. A server side script will be used to collect the form data and do the processing like send emails, save to the database etc. 
+
+# Implementation
+
+<img src = "https://github.com/Vaishnavi2445/HACKMOL-5.O/assets/113535692/72606857-a82e-4b79-91ff-d924f7c710d7" >
+<img src = "https://github.com/Vaishnavi2445/HACKMOL-5.O/assets/113535692/63568a3d-90b9-4474-9b8f-459d74b58afd" >
+<img src = "https://github.com/Vaishnavi2445/HACKMOL-5.O/assets/113535692/c281d208-32a7-4558-bd66-2297c08f09ad" >
+<img src = "https://github.com/Vaishnavi2445/HACKMOL-5.O/assets/113535692/5cc05120-bed8-4b70-867e-60c0906cb21c" >
+<img src = "https://github.com/Vaishnavi2445/HACKMOL-5.O/assets/113535692/3e3a7fc1-1b04-46a5-a239-60b0aca15525" >
+<img src = "https://github.com/Vaishnavi2445/HACKMOL-5.O/assets/113535692/4f26bfe6-e7bc-4120-9f1c-e8035b4df3e0" >
+
